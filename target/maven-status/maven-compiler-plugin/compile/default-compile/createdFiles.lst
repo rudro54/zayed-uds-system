@@ -1,0 +1,6 @@
+edu/miu/zayed/odsservicemgmtcliapp/OdsServiceApp.class
+edu/miu/zayed/odsservicemgmtcliapp/repository/AppointmentRepository.class
+edu/miu/zayed/odsservicemgmtcliapp/service/AppointmentService.class
+edu/miu/zayed/odsservicemgmtcliapp/domain/Appointment.class
+edu/miu/zayed/odsservicemgmtcliapp/util/JsonUtil.class
+edu/miu/zayed/odsservicemgmtcliapp/domain/Patient.class
