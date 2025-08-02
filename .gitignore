@@ -1,15 +1,9 @@
 # Maven
 target/
-*.jar
-*.war
-*.ear
 
 # IDE
 .idea/
 *.iml
-*.ipr
-*.iws
 
 # System
 .DS_Store
-*.log
